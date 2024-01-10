@@ -1,2 +1,2 @@
-# Hello_World_Web_App
+# Hello World Web App
 DevOps Challenge: Automated Application Deployment and Management
